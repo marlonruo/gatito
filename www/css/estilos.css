@@ -34,22 +34,23 @@ body {
 	padding: 0px;
 	font-family: avenir;
 	width:1280px;
-	height:800px;
+	height:100%;
 	-webkit-user-select: none;  /* Chrome all / Safari all */
   -moz-user-select: none;     /* Firefox all */
   -ms-user-select: none;      /* IE 10+ */
   user-select: none;
+  overflow:hidden
 }
 
 #todo {
 	width:1280px;
-	height:800px;
+	height:100%;
 	position:absolute;
 }
 
 .pag {
 	width:1280px;
-	height:800px;
+	height:100%;
 	position:absolute;
 }
 
